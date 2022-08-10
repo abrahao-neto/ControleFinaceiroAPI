@@ -1,0 +1,5 @@
+C:\Users\abrah\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.DAL\obj\Debug\netcoreapp3.1\ControleFinanceiro.DAL.csproj.AssemblyReference.cache
+C:\Users\abrah\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.DAL\obj\Debug\netcoreapp3.1\ControleFinanceiro.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abrah\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.DAL\obj\Debug\netcoreapp3.1\ControleFinanceiro.DAL.AssemblyInfoInputs.cache
+C:\Users\abrah\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.DAL\obj\Debug\netcoreapp3.1\ControleFinanceiro.DAL.AssemblyInfo.cs
+C:\Users\abrah\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.DAL\obj\Debug\netcoreapp3.1\ControleFinanceiro.DAL.csproj.CoreCompileInputs.cache
