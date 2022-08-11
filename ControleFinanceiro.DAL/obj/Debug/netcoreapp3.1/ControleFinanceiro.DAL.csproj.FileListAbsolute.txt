@@ -3,3 +3,14 @@ C:\Users\abrah\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.DAL\
 C:\Users\abrah\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.DAL\obj\Debug\netcoreapp3.1\ControleFinanceiro.DAL.AssemblyInfoInputs.cache
 C:\Users\abrah\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.DAL\obj\Debug\netcoreapp3.1\ControleFinanceiro.DAL.AssemblyInfo.cs
 C:\Users\abrah\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.DAL\obj\Debug\netcoreapp3.1\ControleFinanceiro.DAL.csproj.CoreCompileInputs.cache
+C:\Users\abrah\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.DAL\bin\Debug\netcoreapp3.1\ControleFinanceiro.DAL.deps.json
+C:\Users\abrah\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.DAL\bin\Debug\netcoreapp3.1\ControleFinanceiro.DAL.runtimeconfig.json
+C:\Users\abrah\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.DAL\bin\Debug\netcoreapp3.1\ControleFinanceiro.DAL.runtimeconfig.dev.json
+C:\Users\abrah\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.DAL\bin\Debug\netcoreapp3.1\ControleFinanceiro.DAL.dll
+C:\Users\abrah\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.DAL\bin\Debug\netcoreapp3.1\ControleFinanceiro.DAL.pdb
+C:\Users\abrah\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.DAL\bin\Debug\netcoreapp3.1\ControleFinanceiro.BLL.dll
+C:\Users\abrah\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.DAL\bin\Debug\netcoreapp3.1\ControleFinanceiro.BLL.pdb
+C:\Users\abrah\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.DAL\obj\Debug\netcoreapp3.1\ControleFinanceiro.DAL.csproj.CopyComplete
+C:\Users\abrah\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.DAL\obj\Debug\netcoreapp3.1\ControleFinanceiro.DAL.dll
+C:\Users\abrah\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.DAL\obj\Debug\netcoreapp3.1\ControleFinanceiro.DAL.pdb
+C:\Users\abrah\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.DAL\obj\Debug\netcoreapp3.1\ControleFinanceiro.DAL.genruntimeconfig.cache

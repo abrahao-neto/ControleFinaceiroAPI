@@ -3,3 +3,11 @@ C:\Users\abrah\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.BLL\
 C:\Users\abrah\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.BLL\obj\Debug\netcoreapp3.1\ControleFinanceiro.BLL.AssemblyInfoInputs.cache
 C:\Users\abrah\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.BLL\obj\Debug\netcoreapp3.1\ControleFinanceiro.BLL.AssemblyInfo.cs
 C:\Users\abrah\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.BLL\obj\Debug\netcoreapp3.1\ControleFinanceiro.BLL.csproj.CoreCompileInputs.cache
+C:\Users\abrah\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.BLL\bin\Debug\netcoreapp3.1\ControleFinanceiro.BLL.deps.json
+C:\Users\abrah\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.BLL\bin\Debug\netcoreapp3.1\ControleFinanceiro.BLL.dll
+C:\Users\abrah\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.BLL\bin\Debug\netcoreapp3.1\ControleFinanceiro.BLL.pdb
+C:\Users\abrah\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.BLL\obj\Debug\netcoreapp3.1\ControleFinanceiro.BLL.dll
+C:\Users\abrah\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.BLL\obj\Debug\netcoreapp3.1\ControleFinanceiro.BLL.pdb
+C:\Users\abrah\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.BLL\bin\Debug\netcoreapp3.1\ControleFinanceiro.BLL.runtimeconfig.json
+C:\Users\abrah\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.BLL\bin\Debug\netcoreapp3.1\ControleFinanceiro.BLL.runtimeconfig.dev.json
+C:\Users\abrah\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.BLL\obj\Debug\netcoreapp3.1\ControleFinanceiro.BLL.genruntimeconfig.cache
