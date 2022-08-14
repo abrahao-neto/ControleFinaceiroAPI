@@ -17,7 +17,7 @@ namespace ControleFinanceiro.DAL.Mapeamentos
 
             builder.Property(d => d.Valor).IsRequired();
 
-            builder.Property(d => d.Mes).IsRequired();
+            builder.Property(d => d.Dia).IsRequired();
 
             builder.Property(d => d.Ano).IsRequired();
 

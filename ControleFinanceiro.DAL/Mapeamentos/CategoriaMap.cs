@@ -16,7 +16,7 @@ namespace ControleFinanceiro.DAL.Mapeamentos
             builder.Property(c => c.Icone).IsRequired().HasMaxLength(15);
 
             builder.HasOne(c => c.Tipo).WithMany(c => c.Categorias).HasForeignKey(c => c.TipoId).IsRequired();
-            builder.HasMany(C => C.Ganhos).WithOne(c => c.Categoria);
+            builder.HasMany(c => c.Ganhos).WithOne(c => c.Categoria);
             builder.HasMany(c => c.Despesas).WithOne(c => c.Categoria);
 
             builder.ToTable("Categorias");
